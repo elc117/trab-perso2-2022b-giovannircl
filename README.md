@@ -23,10 +23,10 @@ Enquanto em Haskell é preciso declarar o nome da função novamente para implem
 
 ### - Funções de alta ordem da linguagem Scala:
 
-    - Map
-    - Filter
-    - Reduce
-    - Fold
+   - Map
+   - Filter
+   - Reduce
+   - Fold
 
 ### - Comparação Haskell/Scala:
 
@@ -39,9 +39,9 @@ Enquanto em Haskell é preciso declarar o nome da função novamente para implem
 
 ![](https://media.tenor.com/KW2w_CzRAQUAAAAC/curiosity-push-button.gif)
 
-    - Scala foi lançada em 2003 (Tem a minha idade).
-    - Twitter, Linkedin e Netflix estão entre as grandes empresas que utilizam Scala para lidar com a grande quantia de dados.
-    - Scala possui uma biblioteca com muitas ferramentas para a programação funcional, incluindo coleções imutáveis, expressões lambda e operações de redução.
+   - Scala foi lançada em 2003 (Tem a minha idade).
+   - Twitter, Linkedin e Netflix estão entre as grandes empresas que utilizam Scala para lidar com a grande quantia de dados.
+   - Scala possui uma biblioteca com muitas ferramentas para a programação funcional, incluindo coleções imutáveis, expressões lambda e operações de redução.
 
 ### - Referências:
 
