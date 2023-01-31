@@ -1,6 +1,7 @@
 # *Funções de alta ordem - Scala*
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/1200px-Scala-full-color.svg.png)
+"[](https://miro.medium.com/max/730/1*QFgSZTYpRbyxfti-ouAbtA.png)
 
 Link do repositório no replit: https://replit.com/@GiovanniCacioli/Trabalho-individual-02-Paradigmas#main.scala
 
