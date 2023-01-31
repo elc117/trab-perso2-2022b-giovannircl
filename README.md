@@ -35,7 +35,7 @@ Enquanto em Haskell é preciso declarar o nome da função novamente para implem
 
 ### - Curiosidades!
 
-![Alt Text](https://tenor.com/pt-BR/view/curiosity-push-button-curiosity-kills-yimeisgreat-gif-14365719)
+![](https://media.tenor.com/KW2w_CzRAQUAAAAC/curiosity-push-button.gif)
 
   - Scala foi lançada em 2003 (Tem a minha idade).
   - Twitter, Linkedin e Netflix estão entre as grandes empresas que utilizam Scala para lidar com a grande quantia de dados.
