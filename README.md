@@ -33,3 +33,8 @@ Enquanto em Haskell é preciso declarar o nome da função novamente para implem
   - Scala suporta tanto programação funcional quanto POO. Enquanto no Haskell é mais difícil aplicar qualquer outro paradigma que não seja o funcional.
   - A lógica para desenvolver os exercícios é bem semelhante em ambas as linguagens, bem como a manipulação de listas/variáveis. 
 
+### - Referências:
+
+  - https://docs.scala-lang.org/tour/higher-order-functions.html
+  - https://www.baeldung.com/scala/higher-order-functions
+  - https://www.scala-exercises.org/scala_tutorial/higher_order_functions
