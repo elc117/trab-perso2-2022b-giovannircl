@@ -1,5 +1,7 @@
 # *Funções de alta ordem - Scala*
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/1200px-Scala-full-color.svg.png)
+
 Link do repositório no replit: https://replit.com/@GiovanniCacioli/Trabalho-individual-02-Paradigmas#main.scala
 
 ### - Como visto em aula, as **funções de alta ordem** são aquelas que:
