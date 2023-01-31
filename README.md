@@ -33,6 +33,14 @@ Enquanto em Haskell é preciso declarar o nome da função novamente para implem
   - Scala suporta tanto programação funcional quanto POO. Enquanto no Haskell é mais difícil aplicar qualquer outro paradigma que não seja o funcional.
   - A lógica para desenvolver os exercícios é bem semelhante em ambas as linguagens, bem como a manipulação de listas/variáveis. 
 
+### - Curiosidades!
+
+![Alt Text](https://tenor.com/pt-BR/view/curiosity-push-button-curiosity-kills-yimeisgreat-gif-14365719)
+
+  - Scala foi lançada em 2003 (Tem a minha idade).
+  - Twitter, Linkedin e Netflix estão entre as grandes empresas que utilizam Scala para lidar com a grande quantia de dados.
+  - Scala possui uma biblioteca com muitas ferramentas para a programação funcional, incluindo coleções imutáveis, expressões lambda e operações de redução.
+
 ### - Referências:
 
   - https://docs.scala-lang.org/tour/higher-order-functions.html
