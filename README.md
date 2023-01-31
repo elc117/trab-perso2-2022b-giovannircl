@@ -33,7 +33,7 @@ Enquanto em Haskell é preciso declarar o nome da função novamente para implem
   - Scala suporta tanto programação funcional quanto POO. Enquanto no Haskell é mais difícil aplicar qualquer outro paradigma que não seja o funcional.
   - A lógica para desenvolver os exercícios é bem semelhante em ambas as linguagens, bem como a manipulação de listas/variáveis. 
 
-### - Curiosidades!
+# - Curiosidades!
 
 ![](https://media.tenor.com/KW2w_CzRAQUAAAAC/curiosity-push-button.gif)
 
